@@ -2,7 +2,7 @@
 title: "Machine Learning on data from Fitness Trackers Devices"
 author: "Shan Dey"
 date: "Sunday, August 23, 2015"
-output: html_document
+output: pdf_document
 ---
 ## Background
 
